@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name="testComponents.Listeners"></listener>
+</listeners>
+  <test thread-count="5" name="flight">
+    <classes>
+     
+      <class name="test.AirIndiaTest"/>
+    </classes>
+  </test>
+  
+  <test thread-count="5" name="cricket">
+    <classes>
+      <class name="test.EspnCricInfoTest"/> 
+    </classes>
+  </test>
+  
+  <test thread-count="5" name="frames">
+    <classes>
+      <class name="test.FramesTest"/>
+    </classes>
+  </test>
+  
+  <test thread-count="5" name="streams">
+    <classes>
+      <class name="test.GreenKartTest"/>   
+    </classes>
+  </test>
+  
+  <test thread-count="5" name="logics">
+    <classes>      
+      <class name="test.RahulShettyTest"/>   
+    </classes>
+  </test>
+  
+  <test thread-count="5" name="website">
+    <classes>
+      <class name="test.Veggies"/>
+    </classes>
+  </test> 
+  <!-- Test -->
+</suite> <!-- Suite -->

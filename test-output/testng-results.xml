@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T07:16:16 IST" name="Suite" finished-at="2023-03-06T07:18:23 IST" duration-ms="126311">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T07:16:16 IST" name="streams" finished-at="2023-03-06T07:16:34 IST" duration-ms="18138">
+      <class name="test.GreenKartTest">
+        <test-method is-config="true" signature="veg()[pri:0, instance:test.GreenKartTest@50029372]" started-at="2023-03-06T07:16:16 IST" name="veg" finished-at="2023-03-06T07:16:26 IST" duration-ms="9675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veg -->
+        <test-method signature="vegetable()[pri:0, instance:test.GreenKartTest@50029372]" started-at="2023-03-06T07:16:26 IST" name="vegetable" finished-at="2023-03-06T07:16:26 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vegetable -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.GreenKartTest@50029372]" started-at="2023-03-06T07:16:26 IST" name="tearDwon" finished-at="2023-03-06T07:16:26 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+        <test-method is-config="true" signature="veg()[pri:0, instance:test.GreenKartTest@50029372]" started-at="2023-03-06T07:16:26 IST" name="veg" finished-at="2023-03-06T07:16:34 IST" duration-ms="7118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veg -->
+        <test-method signature="vegetablePrice()[pri:0, instance:test.GreenKartTest@50029372]" started-at="2023-03-06T07:16:34 IST" name="vegetablePrice" finished-at="2023-03-06T07:16:34 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vegetablePrice -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.GreenKartTest@50029372]" started-at="2023-03-06T07:16:34 IST" name="tearDwon" finished-at="2023-03-06T07:16:34 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- test.GreenKartTest -->
+    </test> <!-- streams -->
+    <test started-at="2023-03-06T07:16:16 IST" name="frames" finished-at="2023-03-06T07:16:45 IST" duration-ms="28960">
+      <class name="test.FramesTest">
+        <test-method is-config="true" signature="frameThing()[pri:0, instance:test.FramesTest@769a1df5]" started-at="2023-03-06T07:16:16 IST" name="frameThing" finished-at="2023-03-06T07:16:43 IST" duration-ms="26421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameThing -->
+        <test-method signature="nestedFrames()[pri:0, instance:test.FramesTest@769a1df5]" started-at="2023-03-06T07:16:43 IST" name="nestedFrames" finished-at="2023-03-06T07:16:45 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nestedFrames -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.FramesTest@769a1df5]" started-at="2023-03-06T07:16:45 IST" name="tearDwon" finished-at="2023-03-06T07:16:45 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- test.FramesTest -->
+    </test> <!-- frames -->
+    <test started-at="2023-03-06T07:16:35 IST" name="website" finished-at="2023-03-06T07:16:51 IST" duration-ms="15481">
+      <class name="test.Veggies">
+        <test-method is-config="true" signature="frontEnd()[pri:0, instance:test.Veggies@2bdd8394]" started-at="2023-03-06T07:16:35 IST" name="frontEnd" finished-at="2023-03-06T07:16:42 IST" duration-ms="6490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frontEnd -->
+        <test-method signature="addingProductstoCart()[pri:0, instance:test.Veggies@2bdd8394]" started-at="2023-03-06T07:16:42 IST" name="addingProductstoCart" finished-at="2023-03-06T07:16:50 IST" duration-ms="8121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingProductstoCart -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.Veggies@2bdd8394]" started-at="2023-03-06T07:16:50 IST" name="tearDwon" finished-at="2023-03-06T07:16:51 IST" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- test.Veggies -->
+    </test> <!-- website -->
+    <test started-at="2023-03-06T07:16:16 IST" name="flight" finished-at="2023-03-06T07:17:16 IST" duration-ms="59999">
+      <class name="test.AirIndiaTest">
+        <test-method is-config="true" signature="flight()[pri:0, instance:test.AirIndiaTest@6f43c82]" started-at="2023-03-06T07:16:17 IST" name="flight" finished-at="2023-03-06T07:16:34 IST" duration-ms="16802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flight -->
+        <test-method signature="ticketBooking(java.util.HashMap)[pri:0, instance:test.AirIndiaTest@6f43c82]" started-at="2023-03-06T07:16:34 IST" name="ticketBooking" data-provider="getData" finished-at="2023-03-06T07:16:47 IST" duration-ms="12878" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{toKey=lon, from=Bengaluru, to=Gatwick Airport, fromKey=ben}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticketBooking -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.AirIndiaTest@6f43c82]" started-at="2023-03-06T07:16:47 IST" name="tearDwon" finished-at="2023-03-06T07:16:52 IST" duration-ms="5454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+        <test-method is-config="true" signature="flight()[pri:0, instance:test.AirIndiaTest@6f43c82]" started-at="2023-03-06T07:16:52 IST" name="flight" finished-at="2023-03-06T07:17:10 IST" duration-ms="17858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flight -->
+        <test-method signature="ticketBooking(java.util.HashMap)[pri:0, instance:test.AirIndiaTest@6f43c82]" started-at="2023-03-06T07:17:10 IST" name="ticketBooking" data-provider="getData" finished-at="2023-03-06T07:17:16 IST" duration-ms="5959" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{toKey=mum, from=Delhi, to=Chhatrapati Shivaji International Airport, fromKey=del}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticketBooking -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.AirIndiaTest@6f43c82]" started-at="2023-03-06T07:17:16 IST" name="tearDwon" finished-at="2023-03-06T07:17:16 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- test.AirIndiaTest -->
+    </test> <!-- flight -->
+    <test started-at="2023-03-06T07:16:16 IST" name="cricket" finished-at="2023-03-06T07:17:36 IST" duration-ms="80002">
+      <class name="test.EspnCricInfoTest">
+        <test-method is-config="true" signature="cricket()[pri:0, instance:test.EspnCricInfoTest@461ad730]" started-at="2023-03-06T07:16:16 IST" name="cricket" finished-at="2023-03-06T07:16:34 IST" duration-ms="17772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cricket -->
+        <test-method signature="logicsOfCricket()[pri:0, instance:test.EspnCricInfoTest@461ad730]" started-at="2023-03-06T07:16:34 IST" name="logicsOfCricket" finished-at="2023-03-06T07:17:36 IST" duration-ms="62008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logicsOfCricket -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.EspnCricInfoTest@461ad730]" started-at="2023-03-06T07:17:36 IST" name="tearDwon" finished-at="2023-03-06T07:17:36 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- test.EspnCricInfoTest -->
+    </test> <!-- cricket -->
+    <test started-at="2023-03-06T07:16:16 IST" name="logics" finished-at="2023-03-06T07:18:23 IST" duration-ms="126310">
+      <class name="test.RahulShettyTest">
+        <test-method is-config="true" signature="testing()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:16:16 IST" name="testing" finished-at="2023-03-06T07:16:36 IST" duration-ms="19393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method signature="broken()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:16:36 IST" name="broken" finished-at="2023-03-06T07:16:41 IST" duration-ms="5157" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+https://rahulshettyacademy.com/brokenlink is broken expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+https://rahulshettyacademy.com/brokenlink is broken expected [true] but found [false]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at pageObjects.PracticePageObjects.brokenLinks(PracticePageObjects.java:96)
+at test.RahulShettyTest.broken(RahulShettyTest.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1589)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broken -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:16:41 IST" name="tearDwon" finished-at="2023-03-06T07:16:55 IST" duration-ms="13675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+        <test-method is-config="true" signature="testing()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:16:55 IST" name="testing" finished-at="2023-03-06T07:17:32 IST" duration-ms="36695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method signature="openLinks()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:17:32 IST" name="openLinks" finished-at="2023-03-06T07:18:14 IST" duration-ms="41818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLinks -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:18:14 IST" name="tearDwon" finished-at="2023-03-06T07:18:14 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+        <test-method is-config="true" signature="testing()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:18:14 IST" name="testing" finished-at="2023-03-06T07:18:22 IST" duration-ms="8174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method signature="webdriverScope()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:18:22 IST" name="webdriverScope" finished-at="2023-03-06T07:18:22 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webdriverScope -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:test.RahulShettyTest@45efd90f]" started-at="2023-03-06T07:18:22 IST" name="tearDwon" finished-at="2023-03-06T07:18:23 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- test.RahulShettyTest -->
+    </test> <!-- logics -->
+  </suite> <!-- Suite -->
+</testng-results>

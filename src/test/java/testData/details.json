@@ -1,0 +1,18 @@
+[
+
+{
+"fromKey":"ben",
+"from":"Bengaluru",
+"toKey":"lon",
+"to": "Gatwick Airport"
+},
+
+
+{
+"fromKey":"del",
+"from":"Delhi",
+"toKey":"mum",
+"to":"Chhatrapati Shivaji International Airport"
+}
+
+]
